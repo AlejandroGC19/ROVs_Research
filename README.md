@@ -1,6 +1,6 @@
 ## REALIZADO POR: Alejandro Garrocho Cruz, Diciembre 2021
 
-OBJETIVO: Este script consiste en representar los datos ya obtenidos con el sonar Ping360 en pruebas experimentales, con el objetivo de procesar los datos mediante clustering para llevar a cabo la estimación de la abundancia de peces.
+### OBJETIVO: Este script consiste en representar los datos ya obtenidos con el sonar Ping360 en pruebas experimentales, con el objetivo de procesar los datos mediante clustering para llevar a cabo la estimación de la abundancia de peces.
 
 El algoritmo principal es IdentificacionPeces.m, el resto son funciones que utilizaremos o no dependiendo de las características de la prueba que se determine.
 
